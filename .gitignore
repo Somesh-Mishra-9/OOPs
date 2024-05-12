@@ -1,8 +1,0 @@
-# Exclude a specific file
-
-F:/OOPs/.vscode/*
-# Exclude all files with a .tmp extension
-*.tmp
-
-# Exclude all files in a specific directory
-/path/to/directory/*
