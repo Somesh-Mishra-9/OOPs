@@ -1,6 +1,6 @@
 # Exclude a specific file
-file_to_exclude.txt
-F:\OOPs\.vscode
+
+F:/OOPs/.vscode/*
 # Exclude all files with a .tmp extension
 *.tmp
 
