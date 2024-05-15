@@ -25,7 +25,7 @@ int main(){
     p->foo();
     return 0;
 
-
-        
+    
+     
     
 }
